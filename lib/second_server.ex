@@ -1,4 +1,4 @@
-defmodule FirstServer do
+defmodule SecondServer do
   use GenServer
 
   # API
